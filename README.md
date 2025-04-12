@@ -1,4 +1,4 @@
-# AWS-Services-Manager
+# AWS-Services-Admin
 
 AWS Services Handler
 
